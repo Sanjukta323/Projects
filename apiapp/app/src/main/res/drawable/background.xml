@@ -1,0 +1,10 @@
+
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<solid android:color="@color/white"/> <!-- Set a light background color, adjust opacity as needed -->
+<corners android:radius="20dp"/> <!-- Set the radius for rounded corners, adjust as needed -->
+<stroke
+    android:width="2dp"
+    />
+
+    <!-- Match with the teal color, adjust as needed -->
+</shape>
